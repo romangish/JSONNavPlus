@@ -1,0 +1,108 @@
+{
+    "type": "folder",
+    "folderContent": {
+        "Novels": {
+            "type": "folder",
+            "folderContent": {
+                "Pushkin": {
+                    "type": "folder",
+                    "folderContent": {
+                        "RuslanAndLudmila.doc": {
+                            "type": "file",
+                            "fileContent": "Для вас, души моей царицы, Красавицы, для вас одних Времен минувших небылицы, В часы досугов золотых, Под шепот старины",
+                            "fileIcon": "doc"
+                        },
+                        "Dubrovsky.txt": {
+                            "type": "file",
+                            "fileContent": "Несколько лет тому назад в одном из своих поместий жил старинный русский барин, Кирила Петрович Троекуров. Его богатство, знатный род и связи давали ему большой вес в губерниях, где находилось его имение",
+                            "fileIcon": "txt"
+                        }
+                    }
+                },
+                "Lermontov": {
+                    "type": "folder",
+                    "folderContent": {
+                        "Неопубликованное": {
+                            "type": "folder",
+                            "folderContent": {},
+                        },
+                        "Бородино.txt": {
+                            "type": "file",
+                            "fileContent": "Скажика дядя, ведь не даром...",
+                            "fileIcon": "txt"
+                        },
+                        "Беглец.doc": {
+                            "type": "file",
+                            "fileContent": "Гарн бежал быстрее лани, быстрее чем заяц от орла...",
+                            "fileIcon": "doc"
+                        }
+                    }
+                }
+            }
+        },
+        "readme.txt": {
+            "type": "file",
+            "fileContent": "Content of file readme.txt Content of file readme.txt Content of file readme.txt Content of file readme.txt Content of file readme.txt",
+            "fileIcon": "txt"
+        },
+        "picture.jpg": {
+            "type": "file",
+            "fileContent": "Binary data Binary data Binary data Binary data Binary data",
+            "fileIcon": "jpg"
+        },
+        "Инструкции": {
+            "type": "folder",
+            "folderContent": {
+                "MacOS": {
+                    "type": "folder",
+                    "folderContent": {}
+                },
+                "Windows": {
+                    "type": "folder",
+                    "folderContent": {
+                        "Форматирование диска.txt": {
+                            "type": "file",
+                            "fileContent": "В командрой строке набираете format disk c:",
+                            "fileIcon": "txt"
+                        },
+                        "Оптимизация системы.txt": {
+                            "type": "file",
+                            "fileContent": "format disk c:",
+                            "fileIcon": "txt"
+                        }
+                    }
+                }
+            }
+        },
+        "Фантастика": {
+            "type": "folder",
+            "folderContent": {
+                "Зарубежная": {
+                    "type": "folder",
+                    "folderContent": {
+                        "Война миров.txt": {
+                            "type": "file",
+                            "fileContent": "Война миров Война миров Война миров Война миров",
+                            "fileIcon": "txt"
+                        },
+                        "Падение Гипериона.txt": {
+                            "type": "file",
+                            "fileContent": "Падение Гипериона Падение Гипериона Падение Гипериона Падение Гипериона Падение Гипериона Падение Гипериона",
+                            "fileIcon": "txt"
+                        }
+                    }
+                },
+                "Отечественная": {
+                    "type": "folder",
+                    "folderContent": {
+                        "Падение Гипериона.txt": {
+                            "type": "file",
+                            "fileContent": "Падение Гипериона Падение Гипериона Падение Гипериона Падение Гипериона Падение Гипериона Падение Гипериона",
+                            "fileIcon": "txt"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
